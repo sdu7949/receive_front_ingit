@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "nickname": "브룩",
+            "walletAddress": "0x123awsw123",
+            "investment": "100000원",
+            "keepIn": "1222222원",
+            "dueDate": "2020-10-10",
+            "report": "0회",
+            "freeze": "동결"
+        },
+        {
+            "id": "2",
+            "nickname": "사보",
+            "walletAddress": "0x123awsw123",
+            "investment": "100000원",
+            "keepIn": "1222222원",
+            "dueDate": "2020-10-10",
+            "report": "0회",
+            "freeze": "동결"
+        },
+        {
+            "id": "3",
+            "nickname": "루치",
+            "walletAddress": "0x123awsw123",
+            "investment": "100000원",
+            "keepIn": "1222222원",
+            "dueDate": "2020-10-10",
+            "report": "0회",
+            "freeze": "동결"
+        }
+    ]
+}
