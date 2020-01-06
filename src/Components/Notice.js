@@ -27,21 +27,21 @@ const Notice = () => {
 
   const history = useHistory();
 
-  function purchasingClick() {
+  const purchasingClick = () => {
     history.push(`/purchasing`);
-  }
+  };
 
-  function exchangeClick() {
+  const exchangeClick = () => {
     history.push(`/exchange`);
-  }
+  };
 
-  function reportClick() {
+  const reportClick = () => {
     history.push(`/user`);
-  }
+  };
 
-  function cancelClick() {
+  const cancelClick = () => {
     history.push(`/cancel`);
-  }
+  };
 
   return (
     <Container>

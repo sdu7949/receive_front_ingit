@@ -308,6 +308,8 @@ export default function UserTable(props) {
   return (
     <>
       <Notice />
+      {/* 구매/환전/신고/해지 알림뜨는 영역 */}
+
       <MaterialTable
         title=""
         icons={tableIcons}
